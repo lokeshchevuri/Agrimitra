@@ -1,0 +1,112 @@
+{
+  "Tomato": {
+    "ideal_temp": [21, 29],
+    "ideal_humidity": [60, 80],
+    "diseases": {
+      "Early Blight": "Copper Fungicide",
+      "Late Blight": "Mancozeb",
+      "Powdery Mildew": "Sulfur-based Fungicide",
+      "Bacterial Spot": "Copper-maneb spray",
+      "Fusarium Wilt": "Crop rotation and resistant varieties"
+    }
+  },
+  "Rice": {
+    "ideal_temp": [25, 35],
+    "ideal_humidity": [70, 90],
+    "diseases": {
+      "Rice Blast": "Tricyclazole",
+      "Sheath Blight": "Hexaconazole",
+      "Bacterial Leaf Blight": "Copper Hydroxide",
+      "Brown Spot": "Mancozeb",
+      "False Smut": "Propiconazole"
+    }
+  },
+  "Wheat": {
+    "ideal_temp": [15, 24],
+    "ideal_humidity": [50, 70],
+    "diseases": {
+      "Stem Rust": "Tebuconazole",
+      "Leaf Rust": "Propiconazole",
+      "Powdery Mildew": "Triadimefon",
+      "Loose Smut": "Carboxin seed treatment",
+      "Karnal Bunt": "Carbendazim"
+    }
+  },
+  "Maize": {
+    "ideal_temp": [20, 30],
+    "ideal_humidity": [60, 80],
+    "diseases": {
+      "Turcicum Leaf Blight": "Mancozeb",
+      "Maydis Leaf Blight": "Zineb",
+      "Common Rust": "Azoxystrobin",
+      "Head Smut": "Flutriafol seed treatment",
+      "Downy Mildew": "Metalaxyl"
+    }
+  },
+  "Potato": {
+    "ideal_temp": [15, 20],
+    "ideal_humidity": [70, 85],
+    "diseases": {
+      "Early Blight": "Chlorothalonil",
+      "Late Blight": "Metalaxyl-Mancozeb mix",
+      "Black Scurf": "Pencycuron",
+      "Common Scab": "Maintain soil pH below 5.2",
+      "Bacterial Wilt": "Sanitation and certified seed use"
+    }
+  },
+  "Cotton": {
+    "ideal_temp": [22, 32],
+    "ideal_humidity": [50, 70],
+    "diseases": {
+      "Fusarium Wilt": "Soil solarization and bio-fungicides",
+      "Verticillium Wilt": "Crop rotation with paddy rice",
+      "Alternaria Leaf Spot": "Copper Oxychloride",
+      "Bacterial Blight": "Streptocycline",
+      "Root Rot": "Carbendazim drenching"
+    }
+  },
+  "Apple": {
+    "ideal_temp": [18, 24],
+    "ideal_humidity": [60, 75],
+    "diseases": {
+      "Apple Scab": "Captan or Flusilazole",
+      "Powdery Mildew": "Myclobutanil",
+      "Fire Blight": "Streptomycin",
+      "Black Rot": "Thiophanate-methyl",
+      "Bitter Rot": "Mancozeb"
+    }
+  },
+  "Grapes": {
+    "ideal_temp": [25, 32],
+    "ideal_humidity": [65, 80],
+    "diseases": {
+      "Downy Mildew": "Bordeaux mixture",
+      "Powdery Mildew": "Dinocap",
+      "Black Rot": "Ferbam",
+      "Anthracnose": "Copper Oxychloride",
+      "Botrytis Bunch Rot": "Irodione"
+    }
+  },
+  "Banana": {
+    "ideal_temp": [26, 35],
+    "ideal_humidity": [75, 85],
+    "diseases": {
+      "Panama Wilt": "Quarantine and resistant cultivars",
+      "Sigatoka Leaf Spot": "Propiconazole mineral oil spray",
+      "Bunchy Top": "Eradication of infected plants and aphid control",
+      "Anthracnose": "Carbendazim",
+      "Moko Disease": "Field sanitation and fallowing"
+    }
+  },
+  "Coffee": {
+    "ideal_temp": [18, 25],
+    "ideal_humidity": [70, 85],
+    "diseases": {
+      "Coffee Leaf Rust": "Copper-based Fungicides",
+      "Coffee Berry Disease": "Prochloraz",
+      "Black Rot": "Bordeaux mixture",
+      "Dieback": "Pruning and systemic fungicides",
+      "Root Rot": "Trichoderma viride bio-agent"
+    }
+  }
+}

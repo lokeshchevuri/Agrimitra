@@ -1,0 +1,52 @@
+{
+  "Andhra Pradesh": [
+    "Tadepalligudem", "Vijayawada", "Guntur", "Visakhapatnam", "Eluru", 
+    "Tanuku", "Bhimavaram", "Narasapuram", "Amaravathi", "Kurnool", 
+    "Nellore", "Tirupati", "Rajahmundry"
+  ],
+  "Telangana": [
+    "Hyderabad", "Warangal", "Nizamabad", "Khammam", "Karimnagar", 
+    "Ramagundam", "Mahbubnagar", "Nalgonda", "Adilabad", "Suryapet", 
+    "Miryalaguda", "Siddipet", "Mancherial"
+  ],
+  "Tamil Nadu": [
+    "Chennai", "Coimbatore", "Madurai", "Tiruchirappalli", "Salem", 
+    "Erode", "Vellore", "Thoothukudi", "Tirunelveli", "Thanjavur", 
+    "Dindigul", "Vellore", "Kancheepuram"
+  ],
+  "Karnataka": [
+    "Bengaluru", "Mysuru", "Hubballi", "Dharwad", "Mangaluru", 
+    "Belagavi", "Davanagere", "Ballari", "Vijayapura", "Kalaburagi", 
+    "Shivamogga", "Tumakuru", "Udupi"
+  ],
+  "Maharashtra": [
+    "Mumbai", "Pune", "Nagpur", "Thane", "Pimpri-Chinchwad", 
+    "Nashik", "Kalyan-Dombivli", "Vasai-Virar", "Aurangabad", "Navi Mumbai", 
+    "Solapur", "Mira-Bhayandar", "Bhiwandi"
+  ],
+  "Gujarat": [
+    "Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar", 
+    "Jamnagar", "Gandhinagar", "Junagadh", "Gandhidham", "Anand", 
+    "Navsari", "Morbi", "Nadiad"
+  ],
+  "Rajasthan": [
+    "Jaipur", "Jodhpur", "Kota", "Bikaner", "Ajmer", 
+    "Udaipur", "Bhilwara", "Alwar", "Bharatpur", "Sikar", 
+    "Sri Ganganagar", "Pali", "Chittorgarh"
+  ],
+  "Uttar Pradesh": [
+    "Lucknow", "Kanpur", "Ghaziabad", "Agra", "Meerut", 
+    "Varanasi", "Prayagraj", "Bareilly", "Aligarh", "Moradabad", 
+    "Saharanpur", "Gorakhpur", "Noida"
+  ],
+  "Kerala": [
+    "Thiruvananthapuram", "Kochi", "Kozhikode", "Kollam", "Thrissur", 
+    "Alappuzha", "Palakkad", "Malappuram", "Kannur", "Kottayam", 
+    "Kasaragod", "Pathanamthitta", "Wayanad"
+  ],
+  "Madhya Pradesh": [
+    "Indore", "Bhopal", "Jabalpur", "Gwalior", "Ujjain", 
+    "Sagar", "Dewas", "Satna", "Ratlam", "Rewa", 
+    "Katni", "Singrauli", "Burhanpur"
+  ]
+}
